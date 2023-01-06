@@ -1,5 +1,14 @@
-# 💫 About Me:
-Hi there! My name is Arnish, and I am a student at VIT Vellore studying Computer Science. I am excited about exploring new web domains and continuously learning new skills.<br><br>I have experience working on various blockchain and full stack projects using the MERN stack. I am always looking for opportunities to further my learning, and I am currently seeking internships in either the blockchain or full stack development fields.<br><br>I am enthusiastic about staying up-to-date with the latest tools and technologies, and I enjoy taking on new challenges and projects to further my knowledge and skills.<br><br>Thank you for visiting my profile. Feel free to check out my projects and connect with me on GitHub.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+# 🌎🌟 About Me:
+-   🧑 My name is Arnish and I'm a student at VIT Vellore studying Computer Science 💻
+-   💪 I have experience with blockchain and full stack development using the MERN stack
+-   🔍 I'm currently seeking internships in either blockchain or full stack development
+-   🛠 I enjoy staying up-to-date with the latest tools and technologies and taking on new challenges
+-   🔗 Check out my projects and connect with me on GitHub!
 
 
 ## 🌐 Socials:
