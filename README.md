@@ -4,7 +4,9 @@
    </a>
 </div>
 
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=30F7A6&center=true&width=435&lines=Full+Stack+Web+Developer;Blockchain+Developer;IOT+Specialist;DSA+%7C+DevOps+%7C+Prompt+Engineer;Negotiation+%7C+Communication+" alt="Typing SVG" /></a>
+</p>
 
 
 # 🌎🌟 About Me:
