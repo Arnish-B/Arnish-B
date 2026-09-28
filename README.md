@@ -1,68 +1,196 @@
-<div id="header" align="center">
-   <a href="#" style="pointer-events: none;">
-     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-   </a>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,55:0B2F33,100:0E7C7B&text=Arnish%20Bhardwaj&fontColor=E6EDF3&fontSize=64&fontAlignY=38&animation=fadeIn&desc=I%20build%20GenAI%20systems%20that%20answer%20from%20real%20data&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=680&lines=%3E+RAG+assistants+that+read+your+docs+for+you;%3E+legacy+apps%2C+rebuilt+on+modern+stacks;%3E+teaching+teams+to+ship+with+AI+tools;%3E+AWS+Certified+Solutions+Architect;%3E+got+a+hard+problem%3F+let%27s+talk" alt="Typing SVG" /></a>
+
+<br/>
+
+<a href="https://linkedin.com/in/arnish-bhardwaj"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
+<a href="mailto:itsarnish.bhardwaj@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=F59E0B"/></a>
+<a href="https://medium.com/@arnish"><img src="https://img.shields.io/badge/Medium-161B22?style=for-the-badge&logo=medium&logoColor=2DD4BF"/></a>
+<a href="https://twitter.com/DominusMoris"><img src="https://img.shields.io/badge/Twitter-161B22?style=for-the-badge&logo=x&logoColor=F59E0B"/></a>
+<a href="https://instagram.com/arnishhhhhhh"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=2DD4BF"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=Arnish-B&label=profile%20requests&color=14B8A6&style=flat-square" />
+
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## `$ whoami`
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+Hi, I'm **Arnish**, a developer at **Siemens Technology**, Bangalore. I build GenAI that works on real data.
+
+- <img src="https://api.iconify.design/line-md/lightbulb-twotone.svg?color=%232DD4BF" height="18"/> **RAG assistants** that answer from your own docs
+- <img src="https://api.iconify.design/line-md/cog-loop.svg?color=%232DD4BF" height="18"/> **Legacy apps** rebuilt on Next.js + PostgreSQL
+- <img src="https://api.iconify.design/tabler/bolt.svg?color=%23F59E0B" height="18"/> **Fast shipping**: a production site in under 20 days
+- <img src="https://api.iconify.design/tabler/brain.svg?color=%232DD4BF" height="18"/> **LLM debugging**: months catching logic flaws at Scale AI
+- <img src="https://api.iconify.design/tabler/presentation.svg?color=%23F59E0B" height="18"/> **Workshops** on GenAI, Copilot and MCP
+
+</td>
+<td width="45%" valign="top">
+
+```ts
+const arnish = {
+  based:     "Bangalore, IN",
+  buildsWith: ["Next.js", "Python", "AWS"],
+  goodAt: [
+    "RAG pipelines",
+    "frontend architecture",
+    "legacy modernization",
+    "explaining it all to a room",
+  ],
+  certified: "AWS Solutions Architect – Associate",
+  openTo:    "GenAI & scalable-systems work",
+};
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
+## `$ git log --career`
+
+```diff
++ ● Aug 2024 → now      Siemens Technology · Software Developer
++   ├─ Took a legacy, database-centric app to Next.js + PostgreSQL, owning the frontend
++   └─ Worked on an enterprise virtual assistant for company employees
+!
+! ● Feb → Jul 2024      Scale AI · Freelance
+!   └─ Made LLMs more reliable by finding and fixing the logic holes in their answers
+#
+# ● Nov 2022            Trademarkia · Frontend Developer
+#   ├─ Helped ship the PatentExpress website in under 20 days
+#   └─ Fixed 15+ UI bugs and made 5 key segments 30% more responsive
+```
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## `$ ls ./things-i-built`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/tabler/message-chatbot.svg?color=%232DD4BF" height="24"/> Knowledge Assistant
+**Ask your documents anything.**
+
+A GenAI assistant that turns a sprawl of enterprise documents into plain-language answers. A Retrieval-Augmented Generation pipeline ingests the documents, retrieves the relevant passages, and grounds each answer in them.
+
+<sub>`Amazon Bedrock` `RAG` `Data Ingestion Pipeline`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/tabler/route.svg?color=%23F59E0B" height="24"/> [RouteWizard](https://github.com/Arnish-B/VRP)
+**Route planning that picks its own algorithm.**
+
+Small dataset? It brute-forces the perfect route in O(N!). Big one? It switches to O(N³) and still finishes. Route calculation got **70%+ faster**.
+
+<sub>`Electron.js` `Spring Boot` `Python` `Cesium`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/tabler/eye-off.svg?color=%23F59E0B" height="24"/> [Invisiblur](https://github.com/Arnish-B/Invisiblur)
+**Privacy, one frame at a time.**
+
+Finds every face with OpenCV and blurs it past recognition using a custom algorithm, with **95%+ accuracy**.
+
+<sub>`Flask` `OpenCV` `Python`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/tabler/paw.svg?color=%232DD4BF" height="24"/> [The Zoo](https://github.com/Arnish-B/The-Zoo)
+**A social network with no humans in it.**
+
+AI agents, each with its own personality, post, reply and argue on a Twitter-like feed. I led the build.
+
+<sub>`React` `Node.js` `MongoDB` `OpenAI` `Flask`</sub>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
+## `$ cat proof.log`
+
+| | |
+|:--:|:--|
+| <img src="https://api.iconify.design/tabler/certificate.svg?color=%232DD4BF" height="26"/> | Certified to design systems on AWS: **Solutions Architect – Associate** |
+| <img src="https://api.iconify.design/tabler/school.svg?color=%23F59E0B" height="26"/> | Spent two days teaching **GenAI & scalable systems** to **100+ attendees** at BMS College of Engineering |
+| <img src="https://api.iconify.design/tabler/terminal-2.svg?color=%232DD4BF" height="26"/> | Ran a workshop on getting real work out of **GitHub Copilot and MCP servers**, inside corporate guardrails |
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## `$ tree ./toolbox`
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,md&theme=dark" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind&theme=dark" />
+
+**Backend & Data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,postgres,mongodb,mysql,sqlite&theme=dark" />
+
+**Cloud & Hosting**<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify&theme=dark" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,postman,git,npm,yarn&theme=dark" />
+
+**GenAI & Automation**<br/>
+<img src="https://img.shields.io/badge/Amazon_Bedrock-161B22?style=for-the-badge&logo=amazonaws&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-161B22?style=for-the-badge&logo=openai&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/Langflow-161B22?style=for-the-badge&logo=langchain&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/MCP_Servers-161B22?style=for-the-badge&logo=anthropic&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/Puppeteer-161B22?style=for-the-badge&logo=puppeteer&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/Power_Automate-161B22?style=for-the-badge&logo=powerautomate&logoColor=2DD4BF"/>
+
+</div>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## `$ top --user Arnish-B`
+
+<div align="center">
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arnish-B&theme=github_dark" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arnish-B&theme=github_dark" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnish-B&hide_border=true&background=0D1117&ring=14B8A6&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D" />
+
+</div>
+
+<!-- ═══════════════════════════ CTA ═══════════════════════════ -->
+## `$ ./lets-talk.sh`
+
+Building something with GenAI, stuck with a legacy stack that needs a new life, or want a workshop that leaves your team shipping faster? I'd like to hear about it.
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=0F295B&center=true&width=500&lines=Software+Developer+%40+Siemens;GenAI+%7C+RAG+Systems+Engineer;AWS+Certified+Solutions+Architect;Next.js+%7C+Full+Stack+%7C+Cloud;DSA+%7C+DevOps+%7C+Prompt+Engineering+" alt="Typing SVG" /></a>
+<a href="mailto:itsarnish.bhardwaj@gmail.com"><img width="400" src="https://img.shields.io/badge/itsarnish.bhardwaj%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=F59E0B"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/arnish-bhardwaj"><img width="404" src="https://img.shields.io/badge/linkedin.com%2Fin%2Farnish--bhardwaj-161B22?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
 </p>
 
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<div align="center">
 
-# 🌎🌟 About Me:
--   🧑 My name is Arnish, a Software Developer at Siemens Technology, based in Bangalore 💻
--   🤖 I build GenAI-powered systems — RAG pipelines and internal knowledge assistants
--   🏆 AWS Certified Solutions Architect – Associate
--   🎤 I run workshops on GenAI, scalability, and developer tooling like GitHub Copilot and MCP servers
--   🔗 Check out my projects and feel free to connect with me on GitHub!
+<br/>
 
+<a href="https://buymeacoffee.com/arnishhhh"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-F59E0B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnishhhhhhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnish-bhardwaj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arnish) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DominusMoris) 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0D1117,55:0B2F33,100:0E7C7B&text=%2F%2F%20TODO%3A%20build%20something%20together&fontColor=2DD4BF&fontSize=22&fontAlignY=68&animation=twinkling" width="100%"/>
 
-# 💻 Tech Stack:
-
-### 💻📚🔥 Languages:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
-
-### ☁️ Cloud & Hosting:
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
-
-### 📚🔨🛠 Libraries / Frameworks:
-
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) 
-
-### 🖥️💻🖱️ Frontend tools:
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-
-### 🛠💻🔨 Backend & Data:
-
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-
-### 📦📚📋 Package Managers:
-
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![pip](https://img.shields.io/badge/pip-%23F9C657.svg?style=flat&logo=pip&logoColor=white) ![apt-get](https://img.shields.io/badge/apt-get-%23E35E6B.svg?style=flat&logo=apt&logoColor=white)
-
-### 🛠🔧🛍️ Tools / Utilities:
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=flat&logo=puppeteer&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arnish-B&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arnish-B&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnish-B&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=DominusMoris)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=Arnish-B&icon=8&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arnishhhh) 
-
----
+</div>
