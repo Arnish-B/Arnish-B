@@ -11,7 +11,7 @@
 
 # 🌎🌟 About Me:
 -   🧑 My name is Arnish, a Software Developer at Siemens Technology, based in Bangalore 💻
--   🤖 I build GenAI-powered systems — RAG pipelines and internal knowledge assistants on Amazon Bedrock
+-   🤖 I build GenAI-powered systems — RAG pipelines and internal knowledge assistants
 -   🏆 AWS Certified Solutions Architect – Associate
 -   🎤 I run workshops on GenAI, scalability, and developer tooling like GitHub Copilot and MCP servers
 -   🔗 Check out my projects and feel free to connect with me on GitHub!
